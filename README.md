@@ -62,7 +62,7 @@ The system includes an automated classification engine that cross-references att
     
     Bash
     
-        git clone https://github.com/HiveMind.git
+        git clone https://github.com/0xFarhanYasin/HiveMind.git
         cd HiveMind
     
 2.  Install required dependencies:
